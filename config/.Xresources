@@ -1,0 +1,46 @@
+! NetSynth Settings !
+ns.font:         JetBrainsMonoNl Nerd Font:Regular:pixelsize=12.5
+ns.bold_font:    JetBrainsMonoNL Nerd Font:Bold:pixelsize=12.5
+
+! window padding
+ns.borderpx:     24
+ns.tabspaces:    2
+ns.blinktimeout: 200
+
+! special
+ns.foreground:   #6b6b6b
+ns.background:   #1a1a1a
+ns.cursorColor:  #6b6b6b
+ns.rCursor:      #1a1a1a
+
+! black
+ns.color0:       #2a2a2a
+ns.color8:       #2a2a2a
+
+! red
+ns.color1:       #7fa2bd
+ns.color9:       #7fa2bd
+
+! green
+ns.color2:       #eaaeae
+ns.color10:      #eaaeae
+
+! yellow
+ns.color3:       #7fa2bd
+ns.color11:      #7fa2bd
+
+! blue
+ns.color4:       #a3c5e0
+ns.color12:      #a3c5e0
+
+! magenta
+ns.color5:       #67879e
+ns.color13:      #67879e
+
+! cyan
+ns.color6:       #67879e
+ns.color14:      #67879e
+
+! white
+ns.color7:       #3b3b3b
+ns.color15:      #3b3b3b

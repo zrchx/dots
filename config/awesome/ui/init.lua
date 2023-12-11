@@ -1,0 +1,5 @@
+require"ui.wallpaper"
+require"ui.notifys"
+require"ui.bars"
+require"ui.infobar"
+require"ui.menu"

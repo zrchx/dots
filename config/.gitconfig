@@ -1,0 +1,7 @@
+[user]
+	email = epsilonrf0@gmail.com
+	name = zrchx
+[init]
+	defaultBranch = main
+[credential]
+	helper = cache
